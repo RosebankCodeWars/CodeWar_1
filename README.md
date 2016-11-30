@@ -1,6 +1,7 @@
 # CodeWar #1 - 29 November 2016
 
-Three problems from hpcodewars.org site used for this event where:
+You are on the event-solutions branch. These are the solutions as there were when coded at the event.
+
 1. Peter's Popular Prime Pepper Plant
 2. Giraffe Positioning System
 3. Diamonds
