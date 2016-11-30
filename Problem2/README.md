@@ -1,5 +1,3 @@
+# Problem 2 - Giraffe Positioning System
 
-#Giraffe Positioning System#
-
-No solutions posted
-
+No working solutions at event.
