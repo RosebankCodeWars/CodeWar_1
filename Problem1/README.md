@@ -1,5 +1,6 @@
 # Problem 1 - Peppers
 
-Two R solutions
+2 R solutions
+1 C# solution
 
 
